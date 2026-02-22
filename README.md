@@ -1,4 +1,4 @@
-# ABB RAPID Drawing Application - RobotStudio Simulation
+# ABB RAPID Programming - RobotStudio Simulation
 
 ## Project Overview
 
