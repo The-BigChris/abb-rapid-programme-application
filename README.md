@@ -10,7 +10,9 @@ The system demonstrates structured robotic motion planning, proper coordinate sy
 
 ## Demonstration
 
-![RobotStudio Drawing Simulation](screenshots/robot_drawing_simulation.png)
+## Simulation Video
+
+Full simulation demonstration available in the `video/` folder.
 
 ---
 
