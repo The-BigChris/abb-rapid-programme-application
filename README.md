@@ -65,7 +65,7 @@ The system demonstrates structured robotic motion planning, proper coordinate sy
 - ABB RobotStudio
 - RAPID Programming Language
 - Virtual Controller
-- Industrial Robot Model: IRB 1200
+- Industrial Robot Model: ABB IRB 1200
 
 ---
 
