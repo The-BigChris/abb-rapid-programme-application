@@ -10,8 +10,6 @@ The system demonstrates structured robotic motion planning, proper coordinate sy
 
 ## Demonstration
 
-## Simulation Video
-
 Full simulation demonstration available in the `video/` folder.
 
 ---
